@@ -57,6 +57,6 @@ rs to leave reviews and ratings for products.
 - see the [LICENSE](LICENSE) file for details. 
 ## ✨ Acknowledgments to our senior dev's 🙉🙉
 - Big thanks to **Bethuel Khisa**
-- Big thanks to **Nora Kinyamasyo**
+- Big thanks to **Norah Kinyamasyo**
 - Big thanks to **Terry Solidad**
    <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Philip Emdokolo🤧</a> </p>
