@@ -4,9 +4,10 @@
 ## 🚀 Live Demo Check out the live version of Safari Vendors here: [**Safari Vendors on Vercel**](https://your-vercel-link) 
 ## 🛠️ Project Setup 
 # System Requirements
-**Core i5cpu && above **
-**4Gigabytes of ram and above**
-**128Gb storage space and above**
+-Core i5cpu && above **
+-4Gigabytes of ram and above
+-128Gb storage space and above**
+
 ### Prerequisites 
 - Node.js & npm 
 - React 
@@ -33,7 +34,7 @@
 - 🛒 **Add to Cart**: Browse products and add them to your cart. 
 - 🛠️ **Dynamic Categories**: Filter products by category to find exactly what you're looking for. 
 - 📦 **Checkout**: Seamlessly proceed to checkout and place your orders. 
-## 🖌️ Styling The project is styled with **CSS** to ensure a responsive and user-friendly interface. We aim to deliver a delightful user experience with a focus on simplicity and elegance. 
+## 🖌️ Styling The project is styled with **Tailwind** and **CSS** to ensure a responsive and user-friendly interface. We aim to deliver a delightful user experience with a focus on simplicity and elegance. 
 ## 🎨 Preview ![Safari Vendors Preview](https://your-image-link) 
 ## 🚧 Future Enhancements 
 - **User Authentication**: Implement user login and signup features. 
