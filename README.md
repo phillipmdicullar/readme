@@ -15,8 +15,8 @@
 
 ### Installation 1. 
 **Clone the repository**: 
-- ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject)
-- cd Phase-2-Group8-SafariVendorsProject ``` 
+- ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject)```
+- ```cd Phase-2-Group8-SafariVendorsProject ``` 
 
 2. **Install dependencies**: 
 
