@@ -1,4 +1,4 @@
-# 🌍 Safari Vendors e-Commerce Site 
+# 🌍 Safari Vendors E-Commerce Site 
 🛒 Welcome to **Safari Vendors**, your go-to online marketplace for local foods at affordable prices. This project is built using **React** for the frontend and **JSON Server** for mock backend services. The entire application is hosted on **Vercel**, ensuring fast and reliable access allover the internet. 
 ## 🎨 Preview ![safari-vendors](https://github.com/user-attachments/assets/6b58cade-f043-4b1d-9344-fa8aefbf9d3a)
 
