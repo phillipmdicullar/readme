@@ -40,7 +40,7 @@ The server will be running at `http://localhost:5000`.
 - 🛠️ **Dynamic Categories**: Filter products by category to find exactly what you're looking for. 
 - 📦 **Checkout**: Seamlessly proceed to checkout and place your orders. 
 ## 🖌️ Styling The project is styled with **Tailwind** and **CSS** to ensure a responsive and user-friendly interface. We aim to deliver a delightful user experience with a focus on simplicity and elegance. 
-## 🎨 Preview ![Safari Vendors Preview](https://your-image-link) 
+## 🎨 Preview ![Safari Vendors Preview]([https://your-image-link](https://www.figma.com/design/XgeRFh16QWZUZ0xbGXEpdU/team-mamba?m=auto&t=XE1Iucx0K7I7OD84-6)) 
 ## 🚧 Future Enhancements 
 - **User Authentication**: Implement user login and signup features. 
 - **Backend Integration**: Replace JSON Server with a real backend. 
