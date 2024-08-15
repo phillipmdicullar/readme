@@ -21,9 +21,11 @@
 ```bash npm install ``` 
 3. **Run JSON Server**: 
 
-```bash npm run server ``` The server will be running at `http://localhost:5000`. 
+```bash npm run server ``` 
+The server will be running at `http://localhost:5000`. 
 4. **Start the React app**:
-```bash npm start ``` Open `http://localhost:3000` to view the app in your browser. 
+```bash npm start ``` 
+Open `http://localhost:3000` to view the app in your browser. 
 
 ## 🖥️ Technologies Used 
 - **Frontend**: React, HTML, CSS 
