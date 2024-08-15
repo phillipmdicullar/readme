@@ -14,24 +14,27 @@
 - JSON Server 
 
 ### Installation 1. 
-**Clone the repository**: ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject) cd Phase-2-Group8-SafariVendorsProject ``` 
+**Clone the repository**: 
+- ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject)
+- cd Phase-2-Group8-SafariVendorsProject ``` 
 
 2. **Install dependencies**: 
 
-```bash npm install ``` 
+- ```npm install ``` 
 3. **Run JSON Server**: 
 
-```bash npm run server ``` 
+- ```npm run server ```  or ```npm start```
 The server will be running at `http://localhost:5000`. 
 4. **Start the React app**:
-```bash npm start ``` 
-Open `http://localhost:3000` to view the app in your browser. 
+- ```npm start ``` 
+- Open `http://localhost:3000` to view the app in your browser. 
 
 ## 🖥️ Technologies Used 
 - **Frontend**: React, HTML, CSS 
 - **Backend**: JSON Server (Mock Data), Node.js 
 - **Hosting**: Vercel (Frontend & Backend) 
-- **Deployment**: Continuous Integration/Continuous Deployment (CI/CD) with Vercel ## 🌟 Features 
+- **Deployment**: Continuous Integration/Continuous Deployment (CI/CD) with Vercel
+## 🌟 Features 
 - 🔍 **Search Functionality**: Easily search for your favorite local foods. 
 - 🛒 **Add to Cart**: Browse products and add them to your cart. 
 - 🛠️ **Dynamic Categories**: Filter products by category to find exactly what you're looking for. 
