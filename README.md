@@ -24,7 +24,7 @@
 - ```npm install ``` 
 3. **Run JSON Server**: 
 
-- ```npm run server ```  or ```json-server --watch db.json```
+- ```json-server --watch db.json```
 The server will be running at `http://localhost:3000`. 
 4. **Start the React app**:
 - ```npm start ``` 
