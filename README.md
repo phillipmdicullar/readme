@@ -8,7 +8,7 @@
 - JSON Server 
 
 ### Installation 1. 
-**Clone the repository**: ```bash git clone https://github.com/liza/safari-vendors.git cd safari-vendors ``` 
+**Clone the repository**: ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject) cd Phase-2-Group8-SafariVendorsProject ``` 
 2. **Install dependencies**: ```bash npm install ``` 
 3. **Run JSON Server**: ```bash npm run server ``` The server will be running at `http://localhost:5000`. 
 4. **Start the React app**: ```bash npm start ``` Open `http://localhost:3000` to view the app in your browser. 
@@ -36,4 +36,4 @@
 - see the [LICENSE](LICENSE) file for details. 
 ## ✨ Acknowledgments 
 - Big thanks to the **Flatiron School** for the inspiration and guidance. 
-- Special mention to **Philip** for the initial project setup and guidance. --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Liza</a> </p>
+- Special mention to **Philip** for the initial project setup and guidance. --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Emdokolo</a> </p>
