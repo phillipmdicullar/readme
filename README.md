@@ -45,7 +45,8 @@ The server will be running at `http://localhost:8000`.
 ## 🚧 Future Enhancements 
 - **User Authentication**: Implement user login and signup features. 
 - **Backend Integration**: Replace JSON Server with a real backend. 
-- **Product Reviews**: Allow customers to leave reviews and ratings for products.
+- **Product Reviews**: Allow custome![Screenshot from 2024-07-30 13-33-37](https://github.com/user-attachments/assets/12573246-4b7c-4cce-a9d2-dc14608f5b9f)
+rs to leave reviews and ratings for products.
 - ## 👥 Contributing We welcome contributions from the community! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome. 
 1. **Fork the repository** 
 2. **Create your feature branch** (`git checkout -b feature/YourFeature`) 
