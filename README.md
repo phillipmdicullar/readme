@@ -53,8 +53,7 @@ The server will be running at `http://localhost:5000`.
 5. **Open a Pull Request** 
 ## 📝 License This project is licensed under the MIT License 
 - see the [LICENSE](LICENSE) file for details. 
-## ✨ Acknowledgments 
-- Big thanks to the **Flatiron School** for the inspiration and guidance.
+## ✨ Acknowledgments to our senior dev's 🙉🙉
 - Big thanks to **Bethwell Khisa**
 - Big thanks to **Nora Kinyamasyo**
 - Big thanks to **Terry Solidad**
