@@ -4,9 +4,9 @@
 ## 🚀 Live Demo Check out the live version of Safari Vendors here: [**Safari Vendors on Vercel**](https://your-vercel-link) 
 ## 🛠️ Project Setup 
 # System Requirements
--Core i5cpu && above **
--4Gigabytes of ram and above
--128Gb storage space and above**
+- Core i5cpu && above 
+- 4Gigabytes of ram and above
+- 128Gb storage space and above
 
 ### Prerequisites 
 - Node.js & npm 
