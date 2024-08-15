@@ -56,7 +56,7 @@ rs to leave reviews and ratings for products.
 ## 📝 License This project is licensed under the MIT License 
 - see the [LICENSE](LICENSE) file for details. 
 ## ✨ Acknowledgments to our senior dev's 🙉🙉
-- Big thanks to **Bethwell Khisa**
+- Big thanks to **Bethuel Khisa**
 - Big thanks to **Nora Kinyamasyo**
 - Big thanks to **Terry Solidad**
    <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Philip Emdokolo🤧</a> </p>
