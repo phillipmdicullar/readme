@@ -1,7 +1,12 @@
 # 🌍 Safari Vendors eCommerce Site 
-🛒 Welcome to **Safari Vendors**, your go-to online marketplace for local foods at affordable prices. This project is built using **React** for the frontend and **JSON Server** for mock backend services. The entire application is hosted on **Vercel**, ensuring fast and reliable access. 
+🛒 Welcome to **Safari Vendors**, your go-to online marketplace for local foods at affordable prices. This project is built using **React** for the frontend and **JSON Server** for mock backend services. The entire application is hosted on **Vercel**, ensuring fast and reliable access allover the internet. 
+
 ## 🚀 Live Demo Check out the live version of Safari Vendors here: [**Safari Vendors on Vercel**](https://your-vercel-link) 
 ## 🛠️ Project Setup 
+# System Requirements
+**Core i5cpu && above **
+**4Gigabytes of ram and above**
+**128Gb storage space and above**
 ### Prerequisites 
 - Node.js & npm 
 - React 
@@ -9,9 +14,16 @@
 
 ### Installation 1. 
 **Clone the repository**: ```bash [git clone https://github.com/philipmdicullar/safari-vendors.git](https://github.com/phillipmdicullar/Phase-2-Group8-SafariVendorsProject) cd Phase-2-Group8-SafariVendorsProject ``` 
-2. **Install dependencies**: ```bash npm install ``` 
-3. **Run JSON Server**: ```bash npm run server ``` The server will be running at `http://localhost:5000`. 
-4. **Start the React app**: ```bash npm start ``` Open `http://localhost:3000` to view the app in your browser. 
+
+2. **Install dependencies**: 
+
+```bash npm install ``` 
+3. **Run JSON Server**: 
+
+```bash npm run server ``` The server will be running at `http://localhost:5000`. 
+4. **Start the React app**:
+```bash npm start ``` Open `http://localhost:3000` to view the app in your browser. 
+
 ## 🖥️ Technologies Used 
 - **Frontend**: React, HTML, CSS 
 - **Backend**: JSON Server (Mock Data), Node.js 
