@@ -26,7 +26,8 @@
 ## 🚧 Future Enhancements 
 - **User Authentication**: Implement user login and signup features. 
 - **Backend Integration**: Replace JSON Server with a real backend. 
-- **Product Reviews**: Allow customers to leave reviews and ratings for products. ## 👥 Contributing We welcome contributions from the community! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome. 
+- **Product Reviews**: Allow customers to leave reviews and ratings for products.
+- ## 👥 Contributing We welcome contributions from the community! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome. 
 1. **Fork the repository** 
 2. **Create your feature branch** (`git checkout -b feature/YourFeature`) 
 3. **Commit your changes** (`git commit -m 'Add SomeFeature'`) 
@@ -35,5 +36,9 @@
 ## 📝 License This project is licensed under the MIT License 
 - see the [LICENSE](LICENSE) file for details. 
 ## ✨ Acknowledgments 
-- Big thanks to the **Flatiron School** for the inspiration and guidance. 
-- Special mention to **Philip** for the initial project setup and guidance. --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Emdokolo</a> </p>
+- Big thanks to the **Flatiron School** for the inspiration and guidance.
+- Big thanks to **Bethwell Khisa**
+- Big thanks to **Nora Kinyamasyo**
+- Big thanks to **Terry Solidad**
+- Big
+  --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Philip Emdokolo🤧</a> </p>
