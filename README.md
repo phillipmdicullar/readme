@@ -36,4 +36,4 @@
 - see the [LICENSE](LICENSE) file for details. 
 ## ✨ Acknowledgments 
 - Big thanks to the **Flatiron School** for the inspiration and guidance. 
-- Special mention to **Philip** for the initial project setup and guidance. --- <p align="center"> Made with ❤️ by <a href="https://github.com/liza">Liza</a> </p>
+- Special mention to **Philip** for the initial project setup and guidance. --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Liza</a> </p>
