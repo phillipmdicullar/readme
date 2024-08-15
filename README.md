@@ -10,7 +10,7 @@
 
 ### Prerequisites 
 - Node.js & npm 
-- React [![npm](https://img.shields.io/npm/v/react-image.svg?style=flat-square)](https://www.npmjs.com/package/react-image)
+- React [![npm](https://img.shields.io/npm/v/react-image.svg?style=flat-square)]
 - JSON Server 
 
 ### Installation 1. 
