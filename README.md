@@ -23,11 +23,12 @@
 - ```npm install ``` 
 3. **Run JSON Server**: 
 
-- ```npm run server ```  or ```npm start```
-The server will be running at `http://localhost:5000`. 
+- ```npm run server ```  or ```json-server --watch db.json```
+The server will be running at `http://localhost:8000`. 
 4. **Start the React app**:
 - ```npm start ``` 
-- Open `http://localhost:3000` to view the app in your browser. 
+- Open `http://localhost:3000` to view the app in your browser.
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
 ## 🖥️ Technologies Used 
 - **Frontend**: React, HTML, CSS 
