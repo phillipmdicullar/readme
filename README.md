@@ -41,12 +41,12 @@ The server will be running at `http://localhost:3000`.
 - 🛠️ **Dynamic Categories**: Filter products by category to find exactly what you're looking for. 
 - 📦 **Checkout**: Seamlessly proceed to checkout and place your orders. 
 -  🖌️ **Styling**: The project: is styled with **Tailwind** and **CSS** to ensure a responsive and user-friendly interface. We aim to deliver a delightful user experience with a focus on simplicity and elegance. 
-## 🎨 Preview ![Safari Vendors Preview]([https://your-image-link](https://www.figma.com/design/XgeRFh16QWZUZ0xbGXEpdU/team-mamba?m=auto&t=XE1Iucx0K7I7OD84-6)) 
+## 🎨 Preview ![Screenshot from 2024-08-13 12-50-49](https://github.com/user-attachments/assets/c4df7ca5-c2af-4a96-932f-b023f4a5c274)
+
 ## 🚧 Future Enhancements 
 - **User Authentication**: Implement user login and signup features. 
 - **Backend Integration**: Replace JSON Server with a real backend. 
-- **Product Reviews**: Allow custome![Screenshot from 2024-07-30 13-33-37](https://github.com/user-attachments/assets/12573246-4b7c-4cce-a9d2-dc14608f5b9f)
-rs to leave reviews and ratings for products.
+- **Product Reviews**: Allow customers to leave reviews and ratings for products.
 - ## 👥 Contributing We welcome contributions from the community! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome. 
 1. **Fork the repository** 
 2. **Create your feature branch** (`git checkout -b feature/YourFeature`) 
