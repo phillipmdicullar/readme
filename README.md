@@ -40,5 +40,4 @@
 - Big thanks to **Bethwell Khisa**
 - Big thanks to **Nora Kinyamasyo**
 - Big thanks to **Terry Solidad**
-- Big
-  --- <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Philip Emdokolo🤧</a> </p>
+   <p align="center"> Made with ❤️ by <a href="https://github.com/phillipmdicullar">Philip Emdokolo🤧</a> </p>
