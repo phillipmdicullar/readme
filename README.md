@@ -129,6 +129,7 @@ To support this initiative, the organization seeks to raise funds by encouraging
 
 ## 💻 System Requirements
 To run this project, ensure you have the following installed:
+- ✅ **Windows (wsl) or linux** 
 - ✅ **Node.js** (Latest LTS version recommended)
 - ✅ **Python 3.8+**
 - ✅ **PostgreSQL** (Database Management System)
